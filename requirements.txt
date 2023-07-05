@@ -22,6 +22,6 @@ pyzmq==20.0.0
 Send2Trash==1.5.0
 six==1.15.0
 smmap==3.0.4
-streamlit==0.74.1
+streamlit==1.11.1
 torch==1.7.1
 torchvision==0.8.2
